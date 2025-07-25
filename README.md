@@ -8,3 +8,5 @@ Later on the same day I learned about flow condition and done some program on it
 
 On 25/7/2025 I started functions in c and done some question on it which has been upladed here only.
 
+On 26/7/2025 I started Loops in C and done some question on it which helpsme to understand loops in c perfectly and I have uploaded the programs files here only.
+
