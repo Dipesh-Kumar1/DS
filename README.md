@@ -10,3 +10,4 @@ On 25/7/2025 I started functions in c and done some question on it which has bee
 
 On 26/7/2025 I started Loops in C and done some question on it which helpsme to understand loops in c perfectly and I have uploaded the programs files here only.
 
+So due to some college assignments and some lab works I could not continue but again form 3/8/2025 I started Array and done some problems on it and uploaded here.
