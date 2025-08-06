@@ -12,4 +12,5 @@ On 26/7/2025 I started Loops in C and done some question on it which helpsme to 
 
 So due to some college assignments and some lab works I could not continue but again form 3/8/2025 I started Array and done some problems on it and uploaded here.
 
-On 6/08/2025 done some more question on topic array.
+On 6/08/2025 done some more question on topic array.\
+On 7/08/2025 continue doing some more question on topic array.
