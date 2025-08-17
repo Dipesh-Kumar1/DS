@@ -15,4 +15,10 @@ So due to some college assignments and some lab works I could not continue but a
 On 6/08/2025 done some more question on topic array.
 On 7/08/2025 continue doing some more question on topic array.
 
-So after a long break and some works done some questions on multi dimensional array. date-17-08-2025
+So after a long break and some works done some questions on multi dimensional array. date-17-08-2025.
+
+so after doing some many problem and exercise I can finally say that on date 18-08-2025 i have completed the C programming language. 
+So  i will continue to do problem daily for the practice. 
+ And from now i will be starting DS in c from the gfg  course 
+
+ Thank you.
