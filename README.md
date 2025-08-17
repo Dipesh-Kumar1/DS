@@ -14,3 +14,5 @@ So due to some college assignments and some lab works I could not continue but a
 
 On 6/08/2025 done some more question on topic array.
 On 7/08/2025 continue doing some more question on topic array.
+
+So after a long break and some works done some questions on multi dimensional array. date-17-08-2025
